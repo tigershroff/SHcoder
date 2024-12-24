@@ -1,0 +1,45 @@
+If you can't increase your training intensity or duration but want to find your "ideal" weight, we can focus on a healthy weight range based on your height and body composition. Since you mentioned you're 6 ft tall (183 cm) and want a target weight without doing more training, we'll base the recommendation on a **healthy body mass index (BMI)** range and a healthy body composition.
+
+### 1. **Ideal BMI Range**:
+The World Health Organization (WHO) defines a healthy BMI as between **18.5 and 24.9**. 
+
+For your height of 183 cm (1.83 m), we can calculate the ideal weight range that corresponds to this BMI range:
+
+#### Ideal Weight Calculation Using BMI Formula:
+\[
+\text{BMI} = \frac{\text{Weight in kg}}{(\text{Height in meters})^2}
+\]
+\[
+\text{Weight} = \text{BMI} \times (\text{Height in meters})^2
+\]
+
+#### For BMI 18.5 (lower end of healthy range):
+\[
+\text{Weight} = 18.5 \times (1.83)^2 = 18.5 \times 3.35 = 62.0 \, \text{kg}
+\]
+
+#### For BMI 24.9 (upper end of healthy range):
+\[
+\text{Weight} = 24.9 \times (1.83)^2 = 24.9 \times 3.35 = 83.4 \, \text{kg}
+\]
+
+### 2. **Ideal Weight Range**:
+- **Lower end of healthy weight range**: 62.0 kg
+- **Upper end of healthy weight range**: 83.4 kg
+
+### 3. **Target Weight Based on Body Composition**:
+Since you mentioned you have a history of being "skinny fat," your goal should be to balance muscle and fat. Even if you're not increasing your training intensity, aim for a weight that reflects a **healthy fat percentage**.
+
+- For **men**, a healthy body fat percentage typically ranges between **10-20%**.
+- If you're closer to the lower end (about 62-70 kg), you'll likely be at a healthy weight with a higher percentage of muscle mass and a lower body fat percentage.
+- If you're closer to the upper end (about 80-83 kg), you'll likely have more muscle, but the body fat percentage could be higher without additional training.
+
+Given your current weight of **69.5 kg**, you are already in the lower-to-middle part of the healthy weight range, and maintaining or slightly lowering your weight (within the range of 62-70 kg) could help you achieve a leaner physique without needing to significantly increase your training.
+
+### 4. **Ideal Weight Recommendation**:
+Given the information and your inability to do more training, a reasonable target weight would be between **62-70 kg**, depending on your body fat percentage and the lean muscle mass you have. You are already near the lower end of the ideal weight range, so maintaining or slightly decreasing could be a good target, especially if you focus on your diet and lifestyle.
+
+To further improve body composition without extensive training, consider:
+- **Dietary adjustments**: Focus on protein-rich foods, a balanced macronutrient intake, and a slight calorie deficit if you wish to lose fat.
+- **Incorporating more movement**: Try to walk more regularly or engage in light activity that can help increase your daily caloric expenditure.
+
